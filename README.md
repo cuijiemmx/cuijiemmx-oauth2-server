@@ -2,11 +2,11 @@
 
 This package is a implementation of the package [node-oauth2-server](https://github.com/thomseddon/node-oauth2-server) for Meteor.
 
-It implements the `authorization_code` and works like the Facebook's OAuth popup.
+It implements the `authorization_code`, `client_credentials` and works like the Facebook's OAuth popup.
 
 ## Install
 ```
-meteor add rocketchat:oauth2-server
+meteor add cuijiemmx:oauth2-server
 ```
 
 ## Implementation

@@ -1,8 +1,8 @@
 Package.describe({
-	name: 'rocketchat:oauth2-server',
-	version: '2.0.0',
+	name: 'cuijiemmx:oauth2-server',
+	version: '1.0.0',
 	summary: 'OAuth 2 Server package',
-	git: 'https://github.com/RocketChat/rocketchat-oauth2-server.git'
+	git: 'https://github.com/cuijiemmx/node-oauth2-server.git'
 });
 
 Package.onUse(function(api) {
